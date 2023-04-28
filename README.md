@@ -1,6 +1,6 @@
 # Laboratorio Git
 
-####1. Repositorio local
+#### 1. Repositorio local
    
 - Creo una carpeta con el nombre lab-git usando 
   ```
@@ -15,7 +15,7 @@
 ![Paso 2](images/paso-2.png)
 
 ---
-####2. Repositorio GitHub
+#### 2. Repositorio GitHub
 
 - Desde mi cuenta en GitHub creo el repositorio 
   ```
@@ -35,7 +35,7 @@
 ![Paso 4](images/paso-4.png)
 
 ---
-####3. Commit y Push
+#### 3. Commit y Push
    
 - Creo el archivo README.md en el raíz del repositorio
 - Lo añado al staging con 
@@ -54,7 +54,7 @@
 ![Paso 5](images/paso-5.png)
     
 ---
-####4. Crear rama
+#### 4. Crear rama
    
 - Desde la rama main creo la rama development y me muevo a ella con 
   ```
@@ -67,7 +67,7 @@
 ![Paso 6](images/paso-6.png)
 
 ---
-####5. Hacer merge
+#### 5. Hacer merge
    
 - Desde la rama main hago el merge con la rama development 
     ```
